@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/crop-image/static/js/main.9489dd4c.chunk.js",
-    "main.js.map": "/crop-image/static/js/main.9489dd4c.chunk.js.map",
+    "main.js": "/crop-image/static/js/main.3fc87c49.chunk.js",
+    "main.js.map": "/crop-image/static/js/main.3fc87c49.chunk.js.map",
     "runtime-main.js": "/crop-image/static/js/runtime-main.171c745f.js",
     "runtime-main.js.map": "/crop-image/static/js/runtime-main.171c745f.js.map",
     "static/js/2.b1dbdeef.chunk.js": "/crop-image/static/js/2.b1dbdeef.chunk.js",
     "static/js/2.b1dbdeef.chunk.js.map": "/crop-image/static/js/2.b1dbdeef.chunk.js.map",
     "index.html": "/crop-image/index.html",
-    "precache-manifest.504f2cf6db2705c2c1a53698c34d222f.js": "/crop-image/precache-manifest.504f2cf6db2705c2c1a53698c34d222f.js",
+    "precache-manifest.20552fde3226ee2b5b3a0e2334b5966b.js": "/crop-image/precache-manifest.20552fde3226ee2b5b3a0e2334b5966b.js",
     "service-worker.js": "/crop-image/service-worker.js",
     "static/js/2.b1dbdeef.chunk.js.LICENSE.txt": "/crop-image/static/js/2.b1dbdeef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.171c745f.js",
     "static/js/2.b1dbdeef.chunk.js",
-    "static/js/main.9489dd4c.chunk.js"
+    "static/js/main.3fc87c49.chunk.js"
   ]
 }
